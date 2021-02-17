@@ -1,6 +1,6 @@
  using NUnit.Framework;
  using UserregistrationDay10;
-namespace Userregstration
+ using Userregstration
     {
         public class Tests
         {
