@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Advance C#\UserregistrationDay10\UserregistrationDay10\Userregstration\obj\Debug\netcoreapp3.1\Userregstration.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Advance C#\UserregistrationDay10\UserregistrationDay10\Userregstration\obj\Debug\netcoreapp3.1\Userregstration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Advance C#\UserregistrationDay10\UserregistrationDay10\Userregstration\obj\Debug\netcoreapp3.1\Userregstration.AssemblyInfo.cs
+C:\Users\User\source\repos\Advance C#\UserregistrationDay10\UserregistrationDay10\Userregstration\obj\Debug\netcoreapp3.1\Userregstration.csproj.CoreCompileInputs.cache
